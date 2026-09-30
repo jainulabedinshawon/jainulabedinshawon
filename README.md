@@ -41,7 +41,7 @@ JAS-SI is a research direction exploring an AI architecture designed around the 
 
 Perception → Modeling → Reasoning → Simulation → Evaluation → Planning → Action → Verification → Updating
 
-Core thesis:
+Core Thesis
 
 «JAS-SI is a reality-based intelligence architecture in which AI reasons about what can be done, acts only within authorization, verifies what actually happened through independent evidence, and learns from verified outcomes under accountable governance.»
 
@@ -53,7 +53,7 @@ The goal is to explore AI systems that can reason, act, verify, and update from 
 
 A long-term research framework exploring sustainable civilization and energy systems for Mars.
 
-Current research themes include:
+Current Research Themes
 
 - Solar energy
 - Energy storage
@@ -81,11 +81,25 @@ JAS Economic Stress Doctrine
 
 A framework for studying how interconnected economic weaknesses can propagate through an economy.
 
-Stress Spiral:
+Stress Spiral
 
-"FDI Weakness → Export Weakness → FX Pressure → Inflation → Banking Stress → Fiscal/Energy Constraints → Lower Investment & Jobs → Lower Household Purchasing Power → Weaker Demand"
-
----
+FDI Weakness
+      ↓
+Export Weakness
+      ↓
+FX Pressure
+      ↓
+Inflation
+      ↓
+Banking Stress
+      ↓
+Fiscal / Energy Constraints
+      ↓
+Lower Investment & Jobs
+      ↓
+Lower Household Purchasing Power
+      ↓
+Weaker Demand
 
 JAS Earning Participant Theory — JAS-EPT
 
@@ -187,23 +201,22 @@ My broader objective is to explore how economic systems, artificial intelligence
 🧰 Tools & Technologies
 
 "Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 "GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 "GitHub Actions" (https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 "Markdown" (https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
 📚 Research in Progress
 
-🟡 JAS-JESI — Empirical construction + validation
-
-🟢 JAS Economic Stress Doctrine — Formal conceptual framework
-
-🟢 JAS-EPT — Formal conceptual framework
-
-🟢 JAS Mars — Research framework development
-
-🟡 JAS-SI — Architecture and research development
+- 🟡 JAS-JESI — Empirical construction + validation
+- 🟢 JAS Economic Stress Doctrine — Formal conceptual framework
+- 🟢 JAS-EPT — Formal conceptual framework
+- 🟢 JAS Mars — Research framework development
+- 🟡 JAS-SI — Architecture and research development
 
 ---
 
