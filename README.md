@@ -1,12 +1,12 @@
-JAINUL ABEDIN SHAWON
-
-Research • Systems • AI • Technology
-
-I build research frameworks and technology systems at the intersection of economics, artificial intelligence, data, and long-term civilization-scale thinking.
-
-My work focuses on turning ideas into structured frameworks, empirical models, software implementations, and verifiable research workflows.
-
----
+<p align="center">
+  <img src="./file_0000000055bc8207acf2c48aea8d4e66.png" alt="JAS — Research • Systems • AI • Technology" width="100%">
+</p><h1 align="center">JAINUL ABEDIN SHAWON</h1><p align="center">
+  <strong>Research • Systems • AI • Technology</strong>
+</p><p align="center">
+  I build research frameworks and technology systems at the intersection of economics, artificial intelligence, data, and long-term civilization-scale thinking.
+</p><p align="center">
+  My work focuses on turning ideas into structured frameworks, empirical models, software implementations, and verifiable research workflows.
+</p>---
 
 🔬 JAS — Research & Technology
 
@@ -190,25 +190,24 @@ My broader objective is to explore how economic systems, artificial intelligence
 
 📈 GitHub
 
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/jainulabedinshawon)
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=jainulabedinshawon&show_icons=true&hide_border=true&rank_icon=github)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=jainulabedinshawon&layout=compact&hide_border=true)
-
----
+<p align="center">
+  <a href="https://github.com/jainulabedinshawon">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jainulabedinshawon&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats">
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainulabedinshawon&layout=compact&hide_border=true" alt="Top Languages">
+</p>---
 
 🧰 Tools & Technologies
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-"GitHub Actions" (https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-"Markdown" (https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+</p>---
 
 📚 Research in Progress
 
@@ -227,8 +226,8 @@ My broader objective is to explore how economic systems, artificial intelligence
 
 ---
 
-JAS
-
-Research the system. Build the model. Test it against reality.
-
-Ideas become meaningful when they can be structured, tested, and verified.
+<h2 align="center">JAS</h2><p align="center">
+  <strong>Research the system. Build the model. Test it against reality.</strong>
+</p><p align="center">
+  Ideas become meaningful when they can be structured, tested, and verified.
+</p>
